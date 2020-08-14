@@ -1,6 +1,6 @@
 # The design and implementation data compression algorithms
 
-## Decription
+## Description
 
 In this project, we will implement some data compression algorithms using Python, includes:
 > - [Run Length Coding algorithm (for text)](Run_Length_Encoding.ipynb)
